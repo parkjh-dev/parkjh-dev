@@ -1,8 +1,4 @@
-<div align="center">
-<h1>📌 Links</h1>
-</div>
-
-<p align="center">
+## 📌 Links</h1>
 <a href="https://www.notion.so/PARK-JI-HWAN-1341adc526a880239fd6ce4811d7e9e8?source=copy_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume(KO)-4CAF50?style=flat&logo=readthedocs&logoColor=white"/>
 </a>
@@ -22,5 +18,3 @@
 <a href="https://drive.google.com/file/d/1HyJs8hbe58iTecCqwK5-ERsilY2NNHxs/view" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googledrive&logoColor=white"/>
 </a>
-
-</p>
